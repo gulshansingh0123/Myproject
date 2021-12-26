@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;perfectsuare.java&apos; to &apos;perfect_sq_no.java&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Original element: &apos;perfectsuare.java&apos;&#x0D;&#x0A;- Renamed element: &apos;perfect_sq_no.java&apos;" description="Rename compilation unit &apos;perfectsuare.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{perfectsuare.java" name="perfect_sq_no.java" references="false" stamp="1640515898396" version="1.0"/>
+</session>
